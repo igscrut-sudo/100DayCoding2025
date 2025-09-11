@@ -1,4 +1,4 @@
-publick class coding100hari{   
+public class coding100hari{   
     public static void main(String[] args) { 
         /* \t = Memberi Spasi Pada Teks
            \n = Membuat Baris Baru
