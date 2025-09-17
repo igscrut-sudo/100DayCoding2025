@@ -18,3 +18,4 @@ public class Coding100hari {
         // Error jika mencoba mengubah nilai konstanta
         // UMUR_MINIMAL = 20; // Akan menyebabkan error kompilasi
     }
+}
