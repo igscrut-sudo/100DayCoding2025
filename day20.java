@@ -25,19 +25,19 @@ public class day20 {
         String str1 = String.valueOf("byte\t:"+a);
         System.out.println(str1);
         
-        String str2 = String.valueOf("short\t:"+b);
+        String str2 = long.toString("long\t:"+b);
         System.out.println(str2);
         
-        String str3 = String.valueOf("short\t:"+c);
+        String str3 = short.toString("short\t:"+c);
         System.out.println(str3);
         
-        String str4 = String.valueOf("double\t:"+d);
+        String str4 = double.toString("double\t:"+d);
         System.out.println(str4);
         
         String str5 = String.valueOf("char\t:"+e);
         System.out.println(str5);
         
-        String str6 = String.valueOf("float\t:"+f);
+        String str6 = f+"";
         System.out.println(str6);
         
         String str51 = String.valueOf("Boolean\t:"+g);
