@@ -3,7 +3,7 @@ public class Main {
 		int f = 6;
 int z = 11;
 
-System.out.println("Sebelum ditukar : a = " + a + ", b = " + b);
+System.out.println("Sebelum ditukar : f = " + f + ", z = " + z);
 
 // Langkah-langkah penukaran
 f = f + z; // f sekarang 17(6 + 11)
